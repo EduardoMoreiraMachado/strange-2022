@@ -4,11 +4,11 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(90deg, #000, #000E 30%, #000A 50%, #0000),
-                 url(../img/wallpaper.jpg);
+    background: linear-gradient(180deg, #FAFAEE, #000E 30%, #000A 50%, #D71B2B),
+                 url(../img/background2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right;
+    background-position: center;
     background-blend-mode: darken;
     display: flex;
     flex-direction: column;

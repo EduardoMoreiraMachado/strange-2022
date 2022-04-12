@@ -26,3 +26,12 @@ header{
     background-color: var(--accent-color);
     text-shadow: none;
 }
+
+@media (max-width:768px){
+    header{
+        height: 70px;
+    }
+    .links-container{
+        display: none;
+    }
+}

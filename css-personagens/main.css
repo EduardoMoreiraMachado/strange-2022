@@ -1,0 +1,28 @@
+main{
+    flex-grow: 1;
+    display: flex;
+    font-family: 'Mulish', sans-serif;
+}
+
+.content-personagens{
+    display: flex;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
+}
+
+.content-personagens div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-personagens span{
+    font-size: large;
+}
+
+.content-personagens p{
+    font-weight: 100;
+    padding: 20%;
+}
