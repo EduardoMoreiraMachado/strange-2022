@@ -26,7 +26,7 @@ Landing Pages são páginas com foco principal ma conversão de visitantes, assi
 
 ## Links
 - [Resultado](https://eduardomoreiramachado.github.io/strange-2022/)
-- [Proeto no Figma](https://www.figma.com/file/b8dAlQun0K4fi1wv9N1SDG/LIMA?node-id=0%3A1)
+- [Projeto no Figma](https://www.figma.com/file/b8dAlQun0K4fi1wv9N1SDG/LIMA?node-id=0%3A1)
 - [Código](https://github.com/EduardoMoreiraMachado/strange-2022)
 
 ---
