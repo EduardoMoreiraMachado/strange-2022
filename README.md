@@ -7,12 +7,12 @@ Projeto construido durante as aulas de LIMA, no curso de Desenvolvimento de Sist
 <img src="./img/MOBILE.png" width="150px"> <img src="./img/AndroidSmall-1.png" width="150px">
 
 ## Qual era o objetivo do projeto?
-O objetivo era criar uma landing page com base no designer feito no figma, aprendendo a estrutura do HTML, CSS, JS e conceitos de responsividade.
+O objetivo era criar uma landing page com base no design feito no figma, aprendendo a estrutura do HTML, CSS, JS e conceitos de responsividade.
 
 ---
 
 ## O que é Landing Page?
-Landing Pages são páginas com foco principal ma conversão de visitantes, assim, essas páginas possime uma estética mais minimalista comparada com os sites tradicionais.
+Landing Pages são páginas com foco principal na conversão de visitantes, assim, essas páginas possuem uma estética mais minimalista comparada com os sites tradicionais.
 
 ---
 
